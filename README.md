@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Software Engineer based in Ho Chi Minh City, currently majoring in Information Technology. I have a passion for building scalable systems and exploring the potential of Artificial Intelligence.</p>
+<p align="left">I am a third-year Information Technology student based in Ho Chi Minh City. I have a strong passion for Backend Development and I am building my foundation to tackle complex system architectures in the future.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a third-year Information Technology student based in Ho Chi Minh City. I have a strong passion for Backend Development and I am building my foundation to tackle complex system architectures in the future.<br><br>🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect or AI Engineer.<br><br>🎲 Fun fact: I treat debugging like a detective game where I am the detective and also the murderer.</p>
+<p align="left">🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect or AI Engineer.<br><br>🎲 Fun fact: I treat debugging like a detective game where I am the detective and also the murderer.</p>
 
 ###
 
