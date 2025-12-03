@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Programing languages</h2>
+<h2 align="left">Programming languages</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">FrameWorks, lib and tools</h2>
+<h2 align="left">Frameworks, Lib and Tools</h2>
 
 ###
 
