@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there 👋, I'm Quang Linh (Dvid Nguyen)!</h1>
 
 ###
 
-<p align="left">I am a Software Engineer based in Ho Chi Minh City, currently majoring in **Information Technology**. I have a passion for building scalable systems and exploring the potential of Artificial Intelligence.</p>
+<p align="left">I am a Software Engineer based in Ho Chi Minh City, currently majoring in Information Technology. I have a passion for building scalable systems and exploring the potential of Artificial Intelligence.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since  2023 <br>- 📚 I'm currently learning  Cloud Architecture, Microservices, and Machine Learning models .<br>- 🎯 Goals:To become a Solutions Architect or AI Engineer, designing intelligent and scalable software solutions.<br>- 🎲 Fun fact: I treat debugging like a detective game where I am the detective and also the murderer.</p>
+<p align="left">I am a third-year Information Technology student based in Ho Chi Minh City. I have a strong passion for Backend Development and I am building my foundation to tackle complex system architectures in the future.<br><br>🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect or AI Engineer.<br><br>🎲 Fun fact: I treat debugging like a detective game where I am the detective and also the murderer.</p>
 
 ###
 
-<h2 align="left">Programming languages</h2>
+<h2 align="left">Core Languages</h2>
 
 ###
 
@@ -28,21 +28,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
 ###
 
-<h2 align="left">Frameworks, Lib and Tools</h2>
+<h2 align="left">Frontend & UI</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+</div>
+
+###
+
+<h2 align="left">FrameWorks, lib and tools</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -50,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
@@ -61,7 +71,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
 </div>
 
 ###
