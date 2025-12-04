@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect or AI Engineer.<br><br>🎲 Fun fact: I treat debugging like a detective game where I am the detective and also the murderer.</p>
+<p align="left">🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect or AI Engineer.<br></p>
 
 ###
 
