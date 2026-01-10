@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a third-year Information Technology student based in Ho Chi Minh City. I have a strong passion for Backend Development and I am building my foundation to tackle complex system architectures in the future.</p>
+<p align="left">I am a third-year Information Technology student based in Ho Chi Minh City. I have a strong passion for Backend Development .</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect or AI Engineer.<br></p>
+<p align="left">🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect. <br></p>
 
 ###
 
@@ -48,35 +48,6 @@
 
 ###
 
-<h2 align="left">FrameWorks, lib and tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-</div>
 
 ###
 
