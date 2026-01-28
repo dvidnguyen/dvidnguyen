@@ -2,17 +2,8 @@
 
 ###
 
-<p align="left">I am a third-year Information Technology student based in Ho Chi Minh City. I have a strong passion for Backend Development .</p>
+<p align="left">I am a Information Technology student based in Ho Chi Minh City.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎓 Current Status: 3rd-year Student & Actively seeking Internship opportunities (Java/Go/Backend).<br><br>💻 Coding since: 2023 (Starting with strong fundamentals).<br><br>📚 Currently learning: Building robust APIs with Java/Go, Containerization (Docker), and exploring basic AI/ML concepts.<br><br>🎯 Career Roadmap:<br><br>Short-term: To contribute as a productive Backend Engineering Intern.<br><br>Long-term: Aspiring to become a Solutions Architect. <br></p>
-
-###
 
 <h2 align="left">Core Languages</h2>
 
